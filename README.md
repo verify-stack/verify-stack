@@ -1,10 +1,10 @@
 # Hi, my name is mike!
-I'm a full-stack developer that primarily specializes in Luau.
+I'm a **horrible** full-stack developer that primarily specializes in Luau.
 
 ## 🔭 Languages
-* Luau/Lua (for 5 years!)
+* Luau/Lua
 * PHP
-* C++/C (not good with pointers and memory though)
+* C++/C (not good with pointers and memory though, so i'm pretty much useless lol)
 * C#
 * Python
 * Javascript
