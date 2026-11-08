@@ -13,9 +13,9 @@ I'm a **horrible** full-stack developer that primarily specializes in Luau.
 
 ## 🌱 Current Projects
 * [BLOXVIVAL (client dev and studio)](https://www.roblox.com/games/12718526123/BLOXVIVAL-Testing-Environment)
-* 2Retro4U
-* [aurora-core](https://github.com/verify-stack/aurora-core)
-* [9n8e/2008E](https://github.com/9n8e/2008E)
+* RO2016
+* Boomblox
+* Roblox11 (as a side project)
 
 ## ⚡Focuses
 Currently, I'm focusing on Luau and ROBLOX as those are my **primary goals**. Though C++ and PHP (cough cough [9n8e/2008E](https://github.com/9n8e/2008E) cough cough) is my secondary goal as they are widely used across many web/desktop applications.
